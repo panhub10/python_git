@@ -8,3 +8,4 @@ Copyright (c) 2022/6/15, 海牛学院版权所有.
 a = 10
 b = 11
 print(a + b)
+c = 3
