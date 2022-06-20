@@ -9,4 +9,6 @@ print("hello world")
 print("hello world")
 print("hello world")
 print("hello")
-print("hello wang1")
+
+def add1(a, b):
+    return a + b
